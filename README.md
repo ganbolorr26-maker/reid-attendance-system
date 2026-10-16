@@ -1,0 +1,2 @@
+# reid-attendance-system
+reid BASED STUDENT ATTENDANCE MANAGEMENT SYSTEM
